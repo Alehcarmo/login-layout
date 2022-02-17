@@ -1,0 +1,84 @@
+
+
+h1 {
+    
+    display: block;
+    margin-top: 135.5px;
+    margin-left: 15px;
+    margin-bottom: 12px;
+    color: #000;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    }
+
+    * {
+        font-family: 'Roboto', sans-serif;
+    }
+    
+
+.first-paragraph {
+    margin-left: 15px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 26px;
+    color: #000000;
+    
+    
+    
+}
+
+button {
+    display: block;
+    margin-left: 15px;
+    width: 343px;
+    height: 60px;
+    border: none;
+    font-size: 20px;
+
+
+}
+
+.first-button {
+    margin-bottom: 12px;
+    border-radius: 6px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 22px;
+    padding-right: 220px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.second-button {
+    margin-bottom: 20px;
+    border-radius: 6px;
+    font-style: normal;
+    font-weight: normal;
+    padding-right: 180px;
+    color: #929292;
+}
+
+a {
+    margin-left: 200px;
+    color: #007AFF;
+    font-size: 20px;
+}
+
+.third-button {
+    margin-top: 30px;
+    color: #fff;
+    background-color: #000;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.second-pragraph {
+    margin-top: 204px;
+    margin-left: 35px;
+    font-size: 22px;
+}
+
+strong {
+    color: #007AFF;
+}
